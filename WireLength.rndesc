@@ -1,0 +1,9 @@
+﻿<RengaPlugin>
+  <Name>Wire length calculator</Name>
+  <Version>1.0</Version>
+  <Copyright>Copyright</Copyright>
+  <RequiredAPIVersion>2.3</RequiredAPIVersion>
+  <PluginType>net</PluginType>
+  <PluginFilename>WireLength.dll</PluginFilename>
+  <Vendor>Renga</Vendor>
+</RengaPlugin>
